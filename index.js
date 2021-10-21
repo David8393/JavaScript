@@ -89,7 +89,11 @@
 
 ////   15 - masala   ////
 
-var d = 10;
-var R = 5;
-var L = 
- 
+// var d = 10;
+// var R = 5;
+// var P = 3.14;
+// var L = 2 * P * R;
+// var s = P * (R ** 2);
+// console.log(L , s)
+
+////   
