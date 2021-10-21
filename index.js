@@ -32,7 +32,7 @@ var v = a * a * a;
 var s = 6 * (a ** 2);
 console.log(v, s)
 
-//    6 - masala
+//   6 - masala
 var a = 5;
 var b = 3;
 var c = 3;
@@ -62,7 +62,7 @@ var b = 9;
 var c = ((a * b) ** 0.5 );
 console.log(c)
 
-////     10 - masala    ////
+//   10 - masala
 
 var a = 5;
 var b = 7;
@@ -82,7 +82,7 @@ var c = (((a ** 2) + (b ** 2)) ** 0.5);
 var P = a + b + c;
 console.log(c, P)
 
-//      13 - masala
+//   13 - masala
 
 var R1 = 5;
 var R2 = 3;
@@ -111,7 +111,7 @@ console.log(L , s)
 
 //   16 - masala //
 
-////   17 - masala ////
+//   17 - masala
 
 var a = 7;
 var b = 11;
@@ -175,4 +175,4 @@ var d = a;
 a = b;
 b = c;
 c = d;
-console.log(a , b , c)
+console.log(a, b, c)
